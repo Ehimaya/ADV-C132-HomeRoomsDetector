@@ -1,0 +1,45 @@
+body {
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    height: 30px;
+    font-size: 40px;
+    font-family: cursive;
+    color: black;
+    
+}
+.rooms {
+    background-color: blanchedalmond;
+    color: black;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 180px;
+    padding-bottom: 10px;
+}
+.head {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    margin: 0px;
+}
+.back {
+    float: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    background-color: blanchedalmond;
+    margin-right: 20px;
+}
+.back :hover {
+    color: red;
+}
+
+.status {
+  margin-left: 90px;
+  font-size: 17px;
+}
+
+.obj {
+    font-size: 17px;
+}
+
